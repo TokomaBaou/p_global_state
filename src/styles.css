@@ -1,0 +1,6 @@
+body {
+  background-color: #e4f9e5;
+  margin: 0;
+  /*画面の大きさMAX＊*/
+  min-height: 100vh;
+}
